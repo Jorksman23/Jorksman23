@@ -15,7 +15,7 @@
 
 - 🌱 &nbsp;Estoy en proceso de aprendizaje del Desarrollo de Software.
 
-- ✍️ &nbsp;En mi tiempo libre, me dedico a la actividad fisica.
+- ✍️ &nbsp;.
 
 </td>
 <td width="50%" align="center">
